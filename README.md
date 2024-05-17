@@ -1,10 +1,10 @@
 # About Me:
-Shiva here🚀<br>
-![SpiderManSadGIF](https://github.com/shivaacodes/shivaacodes/assets/139482222/9dcbedc1-1d06-4ff3-b41e-6b85f5a9fd83)
+I'm Shiva🔥<br>
+                         ![SpiderManSadGIF](https://github.com/shivaacodes/shivaacodes/assets/139482222/9dcbedc1-1d06-4ff3-b41e-6b85f5a9fd83)
 <br>
 
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shiva-sajay-03a473288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2iYhdtYvSdGt7%2FilrogOPA%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bacardi525) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCmZSdp3gCi7FumEwgSMrjag) 
 
 # Tech Stack:
