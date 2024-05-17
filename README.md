@@ -1,7 +1,7 @@
 # About Me:
+Shiva here🚀<br>
 ![SpiderManSadGIF](https://github.com/shivaacodes/shivaacodes/assets/139482222/9dcbedc1-1d06-4ff3-b41e-6b85f5a9fd83)
-
-Hey, I'm Shiva🚀<br><br>
+<br>
 
 
 ## Socials:
