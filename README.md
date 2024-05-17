@@ -1,7 +1,5 @@
-<br>
- "             "     ![TobeyMaguireTobeyMaguireHelloGIF](https://github.com/shivaacodes/shivaacodes/assets/139482222/38686fb2-7c5d-4c61-bb79-62aa3ad9d809)
-      
-<br>
+
+
 
 
 ## Socials:
