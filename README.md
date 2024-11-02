@@ -14,8 +14,6 @@ All of my projects are available on my portfolio website: [your-website-here]
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![VITE](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-▶ Github Stats
+# 
 
-# Lets Connect
-
-I'm always excited to connect with fellow developers on [Twitter] and [LinkedIn]. Whether you want to discuss tech, collaborate on projects, or just chat about the latest in AI and web development, feel free to reach out!
+twitter: https://x.com/bacardi525
